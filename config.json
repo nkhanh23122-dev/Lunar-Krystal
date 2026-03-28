@@ -15,14 +15,14 @@
     "autoClean": true,
     "ACCESSTOKEN": "",
     "BOTNAME": "Lương Trường Khôi",
-    "AMDIN_NAME": "Có lỗi báo mình fix qua link bên dưới:",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
+    "AMDIN_NAME": "Thiên",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/share/1CZWtYz18q/",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100018277053087"
+        "61565702451917"
     ],
     "NDH": [
-        "100018277053087"
+        "61565702451917"
     ],
     "DATABASE": {
         "sqlite": {
